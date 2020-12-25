@@ -11,5 +11,8 @@
 ##### 1 free USB port
 ##### Internet connection for setup
 ##### 10KB of free space
-##### Python installed
+##### Python3 installed
 
+## Host setup:
+##### Download rgbcontrol.pyw
+##### Open file in Notepad and change COM port
