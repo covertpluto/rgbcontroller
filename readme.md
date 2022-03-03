@@ -1,6 +1,6 @@
 # RGBController
 
-### The cheapest lighting solution for your rig
+### The cheapest lighting solution for your rainbow puke rig
 
 ## You will need:
 ##### Arduino Uno https://tinyurl.com/y7zst74r
